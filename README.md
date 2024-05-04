@@ -1,7 +1,7 @@
 [![Github Actions Workflow](https://github.com/DiogoCarapito/bi-csp_ide_scrapper/actions/workflows/main.yaml/badge.svg)](https://github.com/DiogoCarapito/bi-csp_ide_scrapper/actions/workflows/main.yaml)
 
-# BI-CSP ide Scrapper
-
+# BI-CSP IDE Scrapper
+PowerBI scrapper scritp for IDE database colection from BI-CSP
 
 ## cheat sheet
 
