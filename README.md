@@ -1,7 +1,7 @@
 [![Github Actions Workflow](https://github.com/DiogoCarapito/bi-csp_ide_scrapper/actions/workflows/main.yaml/badge.svg)](https://github.com/DiogoCarapito/bi-csp_ide_scrapper/actions/workflows/main.yaml)
 
-# python_project_template
-Personal python project template
+# BI-CSP ide Scrapper
+
 
 ## cheat sheet
 
