@@ -22,3 +22,7 @@ build docker image
 docker build -t main:latest .
 ```
 
+### Chromedriver
+```
+brew install chromedriver
+```
